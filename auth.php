@@ -37,8 +37,8 @@
        }
     }
     $redirectUrl='http://projects.discussion4all.com/CRM/google_drive_api/auth.php';
-    $clientId='543172563822-84kujucjblgth824kq65d8lh3n2m2c9c.apps.googleusercontent.com';
-    $clientSecet='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';
+    $clientId='';
+    $clientSecet='';
     if($_GET['code'])
     {
     
